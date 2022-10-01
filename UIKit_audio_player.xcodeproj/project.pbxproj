@@ -13,6 +13,7 @@
 		6E91EFB128E8B44A00BFD598 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E91EFAF28E8B44A00BFD598 /* Main.storyboard */; };
 		6E91EFB328E8B44E00BFD598 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E91EFB228E8B44E00BFD598 /* Assets.xcassets */; };
 		6E91EFB628E8B44E00BFD598 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E91EFB428E8B44E00BFD598 /* LaunchScreen.storyboard */; };
+		6E91EFBE28E8B4AF00BFD598 /* I'm a soldier.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E91EFBD28E8B4AF00BFD598 /* I'm a soldier.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6E91EFB228E8B44E00BFD598 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E91EFB528E8B44E00BFD598 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6E91EFB728E8B44E00BFD598 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E91EFBD28E8B4AF00BFD598 /* I'm a soldier.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "I'm a soldier.mp3"; path = "../../../Downloads/I'm a soldier.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				6E91EFB228E8B44E00BFD598 /* Assets.xcassets */,
 				6E91EFB428E8B44E00BFD598 /* LaunchScreen.storyboard */,
 				6E91EFB728E8B44E00BFD598 /* Info.plist */,
+				6E91EFBD28E8B4AF00BFD598 /* I'm a soldier.mp3 */,
 			);
 			path = UIKit_audio_player;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 				6E91EFB628E8B44E00BFD598 /* LaunchScreen.storyboard in Resources */,
 				6E91EFB328E8B44E00BFD598 /* Assets.xcassets in Resources */,
 				6E91EFB128E8B44A00BFD598 /* Main.storyboard in Resources */,
+				6E91EFBE28E8B4AF00BFD598 /* I'm a soldier.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
